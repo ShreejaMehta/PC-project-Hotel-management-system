@@ -14,6 +14,7 @@ float cost(int , int);//to find total cost
 
 int main()
 {
+    
 
 return 0;
 }
