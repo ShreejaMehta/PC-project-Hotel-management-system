@@ -4,9 +4,13 @@
 #include<string.h>
 
 
+struct rooms{
+
+};
+
 //user defined functions
 void admin();// admin funcrions like see personal info about the residents, their phone number, adhaar card, etc 
-void login();//stores login and password for admin
+void login();//stores login and password for admin//write again 
 void bookroom();// to book rooms for the customer(basically add)
 void cancelbooking();//to cancel the room booked (Basically delete)
 void printreceipt(); //self exp. 
