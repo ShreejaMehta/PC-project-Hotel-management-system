@@ -55,7 +55,7 @@ int main()
 	
 	//getchar();	
     system("cls");
-	login();
+	//login();
 	int menu_choice,choice_return;
 	start:
 	system("cls");
